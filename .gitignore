@@ -1,0 +1,9 @@
+data/
+.kaggle/
+__pycache__/
+*.pyc
+.env
+data/
+.kaggle/
+__pycache__/
+*.pyc
